@@ -17,6 +17,6 @@ class AppTest {
 
     @Test
     public void testNull(){
-        assertFalse(App.earch(null,1));
+        assertFalse(App.search(null,1));
     }
 }
